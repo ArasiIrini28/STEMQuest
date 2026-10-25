@@ -73,9 +73,11 @@ docs/                    Setup, security, deployment and feature-status guides
 
 ## Connect services
 
-1. Follow [Supabase setup](docs/SUPABASE.md).
-2. Follow [email and AI setup](docs/SERVICES.md) only if enabling those features.
-3. Follow [deployment instructions](docs/DEPLOYMENT.md).
-4. Review the [security checklist](docs/SECURITY.md) before real student enrolment.
+1. Follow [Supabase setup](docs/SUPABASE.md). 
+3. Follow [email and AI setup](docs/SERVICES.md) only if enabling those features.
+4. Follow [deployment instructions](docs/DEPLOYMENT.md).
+5. Review the [security checklist](docs/SECURITY.md) before real student enrolment.
 
 No actual children's data, live email deliveries, or AI requests were used during development. Auth delivery, production Supabase persistence, and external providers require live verification after credentials are configured.
+
+Vercel deployment update
