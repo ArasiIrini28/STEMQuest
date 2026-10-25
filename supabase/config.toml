@@ -1,0 +1,7 @@
+project_id = "stemquest"
+[functions.reminders]
+verify_jwt = false
+[functions.tutor]
+verify_jwt = false
+[functions.account]
+verify_jwt = false
